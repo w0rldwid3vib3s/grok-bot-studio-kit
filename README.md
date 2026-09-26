@@ -27,7 +27,7 @@ A coordinator bot for solo creators and small businesses. It reads your prioriti
 Draft-never-send, standing permissions with caps, one source of truth, priority vs FYI, "done means checked," slim hand-offs to Grok Build, failures → rules, honest numbers.
 
 - Read it here: [`starter-kit/grok-bot-starter-kit.md`](starter-kit/grok-bot-starter-kit.md) · [PDF](starter-kit/grok-bot-starter-kit.pdf)
-- On Gumroad (free, $0+): GUMROAD_STARTER_URL
+- On Gumroad (free, $0+): https://caetano72.gumroad.com/l/yzwax
 
 ## 3. Paid guide: *Run a One-Person Studio with Grok Bots* (coming soon, USD $24)
 

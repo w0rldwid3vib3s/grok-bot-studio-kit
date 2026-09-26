@@ -1,5 +1,5 @@
 # Grok Bot Starter Kit: 10 rules I run my bot team by
-*Free from WorldWideVibes (@W0rldwid3vib3s). PDF version: [grok-bot-starter-kit.pdf](grok-bot-starter-kit.pdf) · also on Gumroad: GUMROAD_STARTER_URL*
+*Free from WorldWideVibes (@W0rldwid3vib3s). PDF version: [grok-bot-starter-kit.pdf](grok-bot-starter-kit.pdf) · also on Gumroad: https://caetano72.gumroad.com/l/yzwax*
 
 I run a one-person studio with 11 Grok Bots: a Chief of Staff and ten specialists. These are the rules that keep it from turning into chaos. Every one came from something going wrong.
 
